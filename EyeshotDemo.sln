@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EyeshotDemo", "EyeshotDemo\EyeshotDemo.vbproj", "{0B4DEAE2-D0FF-4D9C-90D7-0FED0F86CCE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B4DEAE2-D0FF-4D9C-90D7-0FED0F86CCE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4DEAE2-D0FF-4D9C-90D7-0FED0F86CCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4DEAE2-D0FF-4D9C-90D7-0FED0F86CCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4DEAE2-D0FF-4D9C-90D7-0FED0F86CCE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
