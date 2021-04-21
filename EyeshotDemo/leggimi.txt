@@ -1,1 +1,1 @@
-6 locale
+7 locale
