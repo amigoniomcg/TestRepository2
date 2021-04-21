@@ -20,7 +20,7 @@ Public Class Form1
 
     Public Sub New()
 
-        ' This call is required by the Windows Form Designer.
+        ' This call is required by the Windows Form Designer..
         InitializeComponent()
 
         ' viewportLayout1.Unlock("") ' For more details see 'Product Activation' topic in the documentation.
