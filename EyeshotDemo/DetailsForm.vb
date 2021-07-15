@@ -1,7 +1,7 @@
 Public Class DetailsForm
 
     Private Sub closeButton_Click(sender As System.Object, e As System.EventArgs) Handles closeButton.Click
-        ''6d
+        ''6e
         Close()
     End Sub
 
