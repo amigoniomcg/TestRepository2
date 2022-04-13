@@ -1,3 +1,5 @@
+
+''' modifica solo da main
 Imports System.Drawing
 Imports System.Linq
 Imports System.Text
