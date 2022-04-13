@@ -1,6 +1,6 @@
 ''' <summary>
-''' test 5 main
-''' </summary>
+''' da main
+''' <summary>
 Public Class DetailsForm
 
     Private Sub closeButton_Click(sender As System.Object, e As System.EventArgs) Handles closeButton.Click
