@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+'test4 main
+=======
 ' 6 branch
+>>>>>>> test
 
 Imports System.Text
 Imports System.Collections.Generic
